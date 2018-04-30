@@ -33,7 +33,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:stm32
 LIBS:74xgxx
-LIBS:beetle-cache
+LIBS:beetle
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693

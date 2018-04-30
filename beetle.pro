@@ -63,6 +63,7 @@ LibName31=contrib
 LibName32=valves
 LibName33=stm32
 LibName34=74xgxx
+LibName35=beetle
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
