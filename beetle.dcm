@@ -1,5 +1,29 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AO4752
+D Transistor N-MOSFET with substrate diode (general)
+K NMOS n-mos n-mosfet transistor
+F http://aosmd.com/res/data_sheets/AO4752.pdf
+$ENDCMP
+#
+$CMP HC-06
+D Wireless Bluetooth Transceiver Module, 3.3V, 40mA
+K bluetooth uart transceiver
+F https://www.olimex.com/Products/Components/RF/BLUETOOTH-SERIAL-HC-06/resources/hc06.pdf
+$ENDCMP
+#
+$CMP MAX4173FESA+
+D High-Side Current-Sense Amplifier +2 V to +28 V Common-Mode Range, 50V/V Gain, SOIC-8
+K current sense amplifier shunt monitor
+F https://datasheets.maximintegrated.com/en/ds/MAX4173-MAX4173T.pdf
+$ENDCMP
+#
+$CMP RT8298
+D 6A 24V, 600kHz Flexible Step-Down Switching Regulator, SO8
+K dc-dc step-down regulator
+F https://www.richtek.com/assets/product_file/RT8298/DS8298-02.pdf
+$ENDCMP
+#
 $CMP SI4435FDY
 D Transistor P-MOSFET with substrate diode (general)
 K pmos p-mos p-mosfet transistor
